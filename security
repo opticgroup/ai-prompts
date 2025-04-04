@@ -1,7 +1,3 @@
-Thanks, Nick. I’ll put together an improved security prompt tailored for use in AI coding assistants like v0.dev. It will focus on protecting web applications built with Next.js, React, and Supabase, including those handling login authentication and payments. It’ll address common web vulnerabilities and frequent coding pitfalls made by AI tools.
-
-I’ll let you know as soon as it’s ready.
-
 # Security Checklist for Next.js + React + Supabase Web Applications
 
 ## Input Validation & Injection Prevention
